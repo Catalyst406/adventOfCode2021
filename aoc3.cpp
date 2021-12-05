@@ -3,7 +3,8 @@
 #include <math.h>
 #include <string>
 #include <vector>
-
+//I dont wanna talk about this code, i couldnt get it working for part 2, ended up doing in a spreadsheet. 
+//if i havnt come back and fixed this code the guilt of the false star doesnt hurt me as much as redoing this day again
 using namespace std;
 
 int binaryToDecimal(int binary[])
