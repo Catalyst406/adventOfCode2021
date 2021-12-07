@@ -1,6 +1,8 @@
 #include <iostream>
 #include <fstream>
 
+//needs to be optimized, theres something going wrong wiht interger overflow in the last part, but i wasnt able to figure it out
+
 using namespace std;
 
 int main()
